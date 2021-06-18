@@ -10,8 +10,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/getkin/kin-openapi/openapi3"
-	"github.com/getkin/kin-openapi/routers"
+	"github.com/UNO-SOFT/kin-openapi/openapi3"
+	"github.com/UNO-SOFT/kin-openapi/routers"
 	"github.com/stretchr/testify/require"
 )
 
